@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 25,
+    "city": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "age": 35,
+    "city": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "age": 40,
+    "city": "Houston"
+  },
+  {
+    "id": 6,
+    "name": "Bob Brown",
+    "age": 40,
+    "city": "Houston"
+  },
+  {
+    "id": 7,
+    "name": "Bobn",
+    "age": 4,
+    "city": "Houston"
+  }
+]
