@@ -1,4 +1,4 @@
-This README provides an overview of the mobile app project and its features. The project aims to create a mobile app with various functionalities including navigation, background images, camera usage, location capturing, API integration, and local storage management.
+The project aims to create a mobile app with various functionalities including navigation, background images, camera usage, location capturing, API integration, and local storage management.
 
 ## Features
 
