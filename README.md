@@ -37,3 +37,8 @@ To run the app:
 - react-native-camera
 - react-native-location
 - fetch (for API integration)
+
+## Video Demo
+
+Check out the video demo of the app on YouTube: [Mobile App Demo](https://www.youtube.com/shorts/o852hhQg1XM)
+
